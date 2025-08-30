@@ -15,11 +15,6 @@ This script logs all unique API requests and responses from the [Infinite Craft]
 
 ### Screenshot
 ![Infinite Craft API Logger UI](screenshots/infiniteCraftLoggerUI.png)
-
-### Notes
-- Requires `@connect neal.fun` permission in Tampermonkey.
-- Logs are saved as JSON files for easy sharing or backup.
-
 ---
 
 ## License
